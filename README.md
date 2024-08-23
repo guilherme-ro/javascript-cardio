@@ -4,7 +4,7 @@
 
 This repo contains javascript code for practice. Lessons by Brad Traversy.
 
-| Plugin | README |
+|  | README |
 | ------ | ------ |
 | Session 1 | Reversals, FizzBuzz, MaxChar |
 | Session 2 | LongestWord, Anagrams, Array Chunking |
